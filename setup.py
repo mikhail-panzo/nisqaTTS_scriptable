@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages  
 
 setup(
-    name='nisqaTTS_scriptable', 
+    name='nisqaceb', 
     version='1.0.0', 
     description='based on the original nisqaTTS but modified so that it can be pip installed and used in script', 
     author='Mikhailangelo Panzo',
